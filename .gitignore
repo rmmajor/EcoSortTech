@@ -165,7 +165,10 @@ cython_debug/
 # keys
 *.pem
 *.pth
+*.pt
 *.pkg
 /data
 /weights
 .DS_Store
+courssuch/
+datasets/
